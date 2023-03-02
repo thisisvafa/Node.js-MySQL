@@ -8,4 +8,4 @@
 7. Node.js MySQL Delete
 8. Node.js MySQL Drop Table
 9. Node.js MySQL Update
-10. 
+10. Node.js MySQL Limit
