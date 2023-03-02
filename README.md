@@ -9,3 +9,4 @@
 8. Node.js MySQL Drop Table
 9. Node.js MySQL Update
 10. Node.js MySQL Limit
+11. Node.js MySQL Join
