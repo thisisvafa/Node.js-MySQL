@@ -5,3 +5,4 @@
 4. Node.js MySQL Select From
 5. Node.js MySQL Where
 6. Node.js MySQL Order By
+7. Node.js MySQL Delete
