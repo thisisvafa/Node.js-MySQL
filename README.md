@@ -1,1 +1,2 @@
-# Node.js-MySQL
+# Node.js MySQL
+1. npm install mysql
